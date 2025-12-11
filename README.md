@@ -18,9 +18,14 @@ Python and Visual Component Tool
 # Program
 
 NAME    : R.DARSHINI
+
 REG NO  :25017318
+
+
 SLOT NO :3P1-1 PQM
 
+
+COLAB LINK:https://colab.research.google.com/drive/1MsaNvNSB4gh1Z1ZT4JU7OgwiyB0llPTD?usp=sharing
 ```
 
 import numpy as np
